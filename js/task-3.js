@@ -1,3 +1,5 @@
+console.log("Task-3 starts from here:");
+
 const profile = {
   username: "Jacob",
   playTime: 300,

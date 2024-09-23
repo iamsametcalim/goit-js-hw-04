@@ -1,8 +1,9 @@
 console.log("Task-2 starts from here:");
+
 function calcAverageCalories(days) {
   let totalCalories = 0;
 
-  for (let day of days) {
+  for (const day of days) {
     totalCalories += day.calories;
   }
 
